@@ -1,2 +1,2 @@
 git init
-new row
+conflict row
